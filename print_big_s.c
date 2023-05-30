@@ -1,6 +1,5 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  *switch_me - convert any version unsigned long int to base 2 8 10 16
  *@n: the number to convert
@@ -25,8 +24,6 @@ char *switch_me(unsigned long int n, int base, int lowc)
 }
 
 
-
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  *_print_big_s - function handling %S
  *@list: list
