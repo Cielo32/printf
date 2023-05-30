@@ -1,4 +1,4 @@
-ifndef _PRINTF_H
+#ifndef _PRINTF_H
 #define _PRINTF_H
 
 #include <stdio.h>
@@ -83,7 +83,7 @@ int print_binary(va_list args, params_t *params);
 int print_octal(va_list args, params_t *params);
 
 /* simple_printers.c module */
-int print_from_to(char *start, char *stop,char *except);
+int print_from_to(char *start, char *stop, char *except);
 int print_rot23(va_list args, params_t *params);
 int print_rev(va_list args, params_t *params);
 
@@ -104,4 +104,4 @@ char *get_precision(char *p, params_t *params, va_list args);
 int _printf(const char *format, ...);
 void init_params(params_t *params, va_list args);
 
-
+#endif
