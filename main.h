@@ -1,4 +1,4 @@
-#ifndef _PRINTF_H
+ifndef _PRINTF_H
 #define _PRINTF_H
 
 #include <stdio.h>
@@ -104,4 +104,4 @@ char *get_precision(char *p, params_t *params, va_list args);
 int _printf(const char *format, ...);
 void init_params(params_t *params, va_list args);
 
-#endif
+
