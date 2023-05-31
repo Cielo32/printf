@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _printf - our printf version for alx PLD
  * @format: format
