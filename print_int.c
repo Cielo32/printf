@@ -1,5 +1,5 @@
 #include "main.h"
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _print_int - function print int handel %d %i
  *

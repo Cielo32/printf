@@ -1,6 +1,5 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_string - function for printing string and handling %s
  * @list: list

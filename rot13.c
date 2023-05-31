@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _rot13 - function help to crypt rot13
  * @s: string
@@ -30,7 +30,7 @@ int _rot13(char *s)
 }
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _print_rot13 - main function of rot13
  * @list: list

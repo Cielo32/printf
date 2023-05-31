@@ -1,7 +1,5 @@
 #include "main.h"
 
-
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_unsigned_int - function that print unsigned int
  *
