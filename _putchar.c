@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _putchar - stdout the char via write
  * @c: char to print
@@ -12,7 +12,7 @@ int _putchar(char c)
 	return (buffer(c));
 }
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * buffer - save char in the buffer
  * @c: char
