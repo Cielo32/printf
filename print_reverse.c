@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_rev_string - function reverse string %r
  *
