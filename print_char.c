@@ -1,5 +1,5 @@
 #include "main.h"
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _print_char - function that print char handling %c
  *
