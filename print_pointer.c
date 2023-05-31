@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _strcmp - funct make change string to upper case
  *
@@ -27,7 +26,6 @@ int _strcmp(char *s1, char *s2)
 
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_pointer - function that print adresse
  *
