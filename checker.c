@@ -1,5 +1,5 @@
 #include "main.h"
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * checker - function that controle the format commes
  * @s: the string
@@ -30,7 +30,7 @@ int checker(const char *s, va_list list)
 
 	return (size);
 }
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * check - function controlls the % elements commes
  * @s: string
