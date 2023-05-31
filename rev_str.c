@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _rev_str - our printf  reverse string
  * @list: list
