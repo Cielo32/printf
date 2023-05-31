@@ -1,6 +1,5 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_bin - function that convert Dic To Bin
  *
@@ -22,7 +21,6 @@ int _print_bin(va_list list)
 }
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_octal - function that convert Dic To octal
  *
@@ -43,7 +41,7 @@ int _print_octal(va_list list)
 	return (c);
 }
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _print_low_hexa - function that convert Dic To lower hexa
  *
@@ -65,7 +63,6 @@ int _print_low_hexa(va_list list)
 }
 
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * _print_big_hexa - function that convert Dic To big hexa
  *
