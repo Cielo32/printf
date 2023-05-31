@@ -1,25 +1,8 @@
 #include "main.h"
-
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
-/**
- * _putchar - stdout the char via write
- * @c: char to print
- * Return: 1 if (Success) and -1 if (UnSuccess)
- **/
-
 int _putchar(char c)
 {
 	return (buffer(c));
 }
-
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
-/**
- * buffer - save char in the buffer
- * @c: char
- *
- * Return: 1
- **/
-
 int buffer(char c)
 {
 	static char buff[BUFFER_SIZE];
