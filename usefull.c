@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _strlen - Calculate the len of a string
  * @s: string
@@ -17,7 +17,7 @@ int _strlen(const char *s)
 
 	return (i);
 }
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * print - print char
  * @s: string
@@ -37,7 +37,7 @@ int print(char *s)
 
 	return (i);
 }
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _put_string - function print string
  *
@@ -58,7 +58,7 @@ int _put_string(char *str)
 	return (i);
 }
 
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
+
 /**
  * _is_lower - funct check if is lower case or not
  *
@@ -75,8 +75,6 @@ int _is_lower(char c)
 }
 
 
-
-/* BY EMOHAMEDD AND ABDELGHNI HAMANAR*/
 /**
  * *_to_upper - funct make change string to upper case
  *
