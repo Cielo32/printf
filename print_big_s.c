@@ -7,7 +7,6 @@
  *@lowc: case if hexa need to be low
  *Return: return nbr at the end
  */
-
 char *switch_me(unsigned long int n, int base, int lowc)
 {
 	const char *digits = lowc ? "0123456789abcdef" : "0123456789ABCDEF";
@@ -22,17 +21,11 @@ char *switch_me(unsigned long int n, int base, int lowc)
 
 	return (p);
 }
-
-
 /**
  *_print_big_s - function handling %S
  *@list: list
  *Return: return len of string
  */
-
-
-
-
 int _print_big_s(va_list list)
 {
 	int i, c = 0;
@@ -61,5 +54,3 @@ int _print_big_s(va_list list)
 
 	return (c);
 }
-
-

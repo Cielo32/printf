@@ -10,6 +10,11 @@ int _putchar(char c)
 {
 	return (buffer(c));
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1a9242094eebc68a6bd5714fdbd95bb50e69ce11
 /**
  * buffer - save char in the buffer
  * @c: char

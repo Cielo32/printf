@@ -11,7 +11,6 @@
 
 #define BUFFER_SIZE 1024
 
-
 /**
  * struct parameters - typedef struct
  * @unsign: var
