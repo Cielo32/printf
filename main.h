@@ -11,10 +11,7 @@
 
 #define BUFFER_SIZE 1024
 
-<<<<<<< HEAD
 
-=======
->>>>>>> cf74b715004b7ef88a3ea46b714e1a3fd406b950
 /**
  * struct parameters - typedef struct
  * @unsign: var
@@ -45,7 +42,6 @@ typedef struct parameters
 	unsigned int l_modifier	: 1;
 } params_t;
 
-
 /**
  * struct format_t - typedef struct
  *
@@ -63,12 +59,16 @@ typedef struct format_t
 int _printf(const char *format, ...);
 
 
+/* fucntion the handles what commes after %*/
 /*%s*/
 int _print_string(va_list list);
+/*%c*/
 int _print_char(va_list list);
+/*%d %i */
 int _print_int(va_list list);
 
 
+/*all kind of base conversion */
 /*%b*/
 int _print_bin(va_list list);
 /*%o*/
