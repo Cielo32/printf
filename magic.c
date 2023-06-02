@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_magic - function convert any integer to ASCII
+ * _magic - function convert any integer to ASCII
  * @n: variable long int
  * @base: base to convert to
  * Return: char pointer
